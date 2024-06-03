@@ -1,0 +1,238 @@
+.App {
+  text-align: center;
+}
+
+/* custom css start*/
+.imgslide1 {
+  background: url(../public/images/slide-01.jpg);
+  background-size: 100% 100%;
+}
+
+.imgslide2 {
+  background: url(../public/images/slide-02.jpg);
+  background-size: 100% 100%;
+}
+
+.imgslide3 {
+  background: url(../public/images/slide-03.jpg);
+  background-size: 100% 100%;
+}
+
+.p1 {
+  padding: 300px 150px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.banner1 {
+  background: url(../public/images/banner-01.jpg);
+  background-size: 100% 100%;
+}
+
+.banner1:hover {
+  color: white;
+  background: #61dafb74;
+}
+
+.banner2 {
+  background: url(../public/images/banner-02.jpg);
+  background-size: 100% 100%;
+}
+.banner2:hover {
+  color: white;
+  background: #61dafb74;
+}
+.banner3 {
+  background: url(../public/images/banner-03.jpg);
+  background-size: 100% 100%;
+}
+.banner3:hover {
+  color: white;
+  background: #61dafb74;
+}
+.btn1{
+  color: gray !important;
+  text-decoration: none;
+  cursor: pointer;
+}
+.btn1:hover{
+  color: black !important;
+  text-decoration: underline;
+}
+.cardzoom{
+  transform: scale(1);
+  transition: .31s;
+}
+.ofhi{
+  overflow: hidden;
+  position: relative;
+}
+.poab{
+  position: absolute;
+  top: 110%;
+  left: 30%;
+  background-color: white;
+  border: 0;
+  transition: .31s;
+}
+.poab:hover{
+  background-color: black;
+  color: white;
+}
+.card1:hover .poab{
+  top: 80%;
+}
+.card1:hover .cardzoom{
+  transform: scale(1.2);
+}
+.btn2{
+  background-color: gray;
+  color: black;
+}
+.btn2:hover{
+  background-color: black;
+  color: white;
+}
+.bg02{
+  background: url('../public/images/bg-02.jpg');
+  background-size: 100% 100%;
+  color: white;
+}
+.bg06{
+  background: url('../public/images/bg-01.jpg');
+  background-size: 100% 100%;
+  color: white;
+}
+.bg03{
+  background: url('../public/images/blog-01.jpg');
+  background-size: 100% 100%;
+  height: 500px;
+  transition: .31s;
+  transform: scale(1);
+}
+.bg04{
+  background: url('../public/images/blog-02.jpg');
+  background-size: 100% 100%;
+  height: 450px;
+  transition: .31s;
+  transform: scale(1);
+}
+.bg05{
+  background: url('../public/images/blog-03.jpg');
+  background-size: 100% 100%;
+  height: 500px;
+  transition: .31s;
+  transform: scale(1);
+}
+.of{
+  overflow: hidden;
+}
+.box1{
+  background-color: rgba(255, 255, 255, 0.67);
+}
+.pore1{
+  position: relative;
+}
+.poab1{
+  position: absolute;
+  top: 1%;
+  left: 1%;
+}
+.bg03:hover{
+  transform: scale(1.1);
+}
+.bg04:hover{
+  transform: scale(1.1);
+}
+.bg05:hover{
+  transform: scale(1.1);
+}
+.p2{
+  padding: 70px;
+}
+.bg07{
+  background: url('../public/images/about-01.jpg');
+  background-size: 100% 100%;
+  height: 400px;
+  transform: scale(1);
+  transition: .31s;
+}
+.bg08{
+  background: url('../public/images/about-02.jpg');
+  background-size: 100% 100%;
+  height: 400px;
+  transform: scale(1);
+  transition: .31s;
+}
+.bg07:hover{
+  transform: scale(1.1);
+}
+.bg08:hover{
+  transform: scale(1.1);
+}
+.bg09{
+  background: url('../public/images/bg-01.jpg');
+  background-size: 100% 100%;
+color: white;
+}
+.btn4{
+  background-color: rgba(98, 98, 144, 0.572) !important;
+}
+.btn4:hover{
+  background-color: rgb(52, 52, 159) !important;
+  color: white !important;
+}
+@media (max-width:900px) {
+  .p1 {
+    padding: 200px 50px;
+  }
+}
+
+@media (max-width:500px) {
+  .p1 {
+    padding: 150px 50px;
+  }
+}
+
+/* custom css end */
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}

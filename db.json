@@ -1,0 +1,127 @@
+{
+  "users": [
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-01.jpg",
+      "name": "Esprit Ruffle Shirt",
+      "price": "16.64",
+      "category": "women",
+      "id": "9c5a"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-02.jpg",
+      "name": "Herschel Supply",
+      "price": "35.31",
+      "category": "women",
+      "id": "b034"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-03.jpg",
+      "name": "Only Check Trouser",
+      "price": "25.50",
+      "category": "men",
+      "id": "2480"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-04.jpg",
+      "name": "Classoc Trench Coat",
+      "price": "75.00",
+      "category": "women",
+      "id": "864e"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-05.jpg",
+      "name": "Front Pocket Jumper",
+      "price": "34.75",
+      "category": "women",
+      "id": "ee32"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-06.jpg",
+      "name": "vintage Inspired Classic",
+      "price": "93.20",
+      "category": "watch",
+      "id": "6bf7"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-07.jpg",
+      "name": "Shirt in Stretch Cotton",
+      "price": "52.66",
+      "category": "women",
+      "id": "88ad"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-08.jpg",
+      "name": "Pieces Metalic Printed",
+      "price": "18.96",
+      "category": "women",
+      "id": "4f90"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-09.jpg",
+      "name": "Converse All Star hi Plimsolls",
+      "price": "75.00",
+      "category": "shoe",
+      "id": "a5ed"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-10.jpg",
+      "name": "Femme T-shirt In Stripe",
+      "price": "25.85",
+      "category": "women",
+      "id": "bc0d"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-11.jpg",
+      "name": "Herschel Supply",
+      "price": "63.16",
+      "category": "men",
+      "id": "67b1"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-12.jpg",
+      "name": "Herschel Supply",
+      "price": "63.15",
+      "category": "belt",
+      "id": "9c46"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-13.jpg",
+      "name": "T-shirt with Sleeve",
+      "price": "18.49",
+      "category": "women",
+      "id": "cbd2"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-14.jpg",
+      "name": "Preety Little Thing",
+      "price": "54.79",
+      "category": "women",
+      "id": "4cff"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-15.jpg",
+      "name": "Mini Silver Mesh Watch",
+      "price": "86.85",
+      "category": "watch",
+      "id": "6476"
+    },
+    {
+      "url": "https://themewagon.github.io/cozastore/images/product-16.jpg",
+      "name": "Square Neck Back",
+      "price": "29.64",
+      "category": "women",
+      "id": "2c27"
+    }
+  ],
+  "addtocart": [
+    {
+      "id": "b034",
+      "name": "Herschel Supply",
+      "url": "https://themewagon.github.io/cozastore/images/product-02.jpg",
+      "price": "35.31",
+      "quantity": 3,
+      "size": "Size M",
+      "color": "Blue"
+    }
+  ]
+}
